@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "radius": "~1.0.3",
-    "yargs": "~1.0.15"
+    "yargs": "~1.0.15",
+    "speakeasy":  "~1.0.3"
   }
 }
